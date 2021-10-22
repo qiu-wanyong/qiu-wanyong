@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wanyong Qiu @jomaron
-- 👀 I’m interested in ...Psychophysiological computation-> Computer hearing-> Federated Learning --->Brain Health Engineering Lab.
+- 👀 I’m interested in ...Psychophysiological computation-> Computer hearing-> Federated learning --->Brain Health Engineering Lab.
 - 🌱 I’m currently learning ...Federated Learning
 - 💞️ I’m looking to collaborate on ... You
 - 📫 How to reach me ...
