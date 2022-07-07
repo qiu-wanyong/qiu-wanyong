@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wanyong Qiu @jomaron - 👀 from ... Brain Health Engineering Lab. 
 - 🌱 I’m currently learning ... Federated Learning in Healthcare- Computer Audition- Psychophysiological Computation...
-- 💞️ I’m looking to collaborate on ... You - 📫 Contact me ... E-mail
+- 💞️ I’m looking to collaborate on ... You - 📫 contact me ... E-mail
 
 - ✨ The Lab is open for PhD students and post-doctoral fellows, welcome to join us.
 <!---
