@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Wanyong Qiu @jomaron
-- 👀 I’m from ... Brain Health Engineering Lab. 
-- 🌱 I’m currently learning ... Federal Learning in Healthcare- Computer Hearing- Psychophysiological Computation
+- 👋 Hi, I’m Wanyong Qiu @jomaron - 👀 from ... Brain Health Engineering Lab. 
+- 🌱 I’m currently learning ... Federal Learning in Healthcare- Computer Hearing- Psychophysiological Computation...
 - 💞️ I’m looking to collaborate on ... You - 📫 Contact me ... E-mail
 
 - ✨ The Lab is open for PhD students and post-doctoral fellows, welcome to join us.
