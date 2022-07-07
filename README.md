@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Wanyong Qiu @jomaron
-- 👀 I’m interested in ...Psychophysiological computation-> Computer hearing-> Federated learning --->Brain Health Engineering Lab.
-- 🌱 I’m currently learning ...Federated Learning
+- 👀 I’m from ...  --->Brain Health Engineering Lab. The Lab is open for PhDs and post-docs, welcome to join us.
+- 🌱 I’m currently learning ...Federal Learning in Healthcare- Computer Hearing- Psychophysiological Computation
 - 💞️ I’m looking to collaborate on ... You
-- 📫 How to reach me ...
+- 📫 Contact me ... E-mail
 
 <!---
 jomaron/jomaron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
