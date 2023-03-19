@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Wanyong Qiu @jomaron - 👀 from ... Brain Health Engineering Lab. 
-- 🌱 I’m currently learning ... Federated Learning in Healthcare- Computer Audition- Psychophysiological Computation...
-- 💞️ I’m looking to collaborate on ... You - 📫 contact me ... E-mail
+- 👋 Hi, I’m Wanyong Qiu(邱万勇) - 👀 from the Key Laboratory of Brain Health Intelligent Evaluation and Intervention (BIT), Ministry of Education, Beijing.
+- 🌱 My research interests include ... Federated Learning in Healthcare, Privacy-Preserving Computational Psychophysiology, Computer Audition...
+- 💞️ I’m looking to collaborate with you - 📫 contact me ... E-mail
 
 - ✨ The Lab is open for PhD students and postdoctoral researcher. Welcome!
 <!---
