@@ -44,10 +44,10 @@
 <!-- START_SECTION:blog -->
 | Research | Interests |
 | :-: | :---: |
-| Artificial Intelligence| <a href='https://blog.bj-yan.top/p/misc-20240212/' target='_blank'>Machine learning, Computer audition</a> |
-| Information Security | <a href='https://blog.bj-yan.top/p/blog-efficiency-analysis-of-distributed-machine-learning/' target='_blank'>Privacy-preserving computing</a> |
-| Artificial Intelligence Medicine| <a href='https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-4/' target='_blank'>Federated learning for healthcare</a> |
-| Medical Information Privacy| <a href='https://blog.bj-yan.top/p/blog-convergence-analysis-in-deep-learning-part-3/' target='_blank'>Psychophysiology of privacy computing</a> |
+| Artificial Intelligence| <a href='https://book.douban.com/subject/26708119/' target='_blank'>Machine learning, Computer audition</a> |
+| Information Security | <a href='https://book.douban.com/subject/35750988/' target='_blank'>Privacy-preserving computing</a> |
+| Artificial Intelligence Medicine| <a href='https://book.douban.com/subject/35062813/' target='_blank'>Federated learning for healthcare</a> |
+| Medical Information Privacy| <a href='https://book.douban.com/subject/5937126/' target='_blank'>Psychophysiology of privacy computing</a> |
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">
