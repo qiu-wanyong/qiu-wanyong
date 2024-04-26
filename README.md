@@ -5,9 +5,9 @@
   <samp>
     <a href="http://qiuwy.com/">homepage</a> ∙
     <a href="https://www.researchgate.net/profile/Wanyong-Qiu/">researchGate</a> ∙
-    <a href="https://space.bilibili.com/378576748?spm_id_from=333.1007.0.0">bilibili</a> ∙ 
     <a href="https://www.zhihu.com/people/Jomaron">blog</a> ∙ 
     <a href="https://blog.csdn.net/qiu1440528444?type=blog/">CSDN</a> ∙ 
+    <a href="https://space.bilibili.com/378576748?spm_id_from=333.1007.0.0">bilibili</a> ∙ 
     <a href="http://qiuwy.com/wp-content/uploads/2024/04/W.Qiu@CVEN.pdf">cv</a>
   </samp>
 </p>
