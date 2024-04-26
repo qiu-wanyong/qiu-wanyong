@@ -57,10 +57,10 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-| 2024-04-23 | 想看🤔 <a href='https://movie.douban.com/subject/35426925/' target='_blank'>机器人之梦 Robot Dreams</a>  |
-| 2024-03-10 | 看过😎 <a href='https://movie.douban.com/subject/26925611/?from=showing/' target='_blank'>你想活出怎样的人生</a> ⭐⭐⭐⭐ |
-| 2024-03-08 | 看过😎 <a href='http://movie.douban.com/subject/36151692/' target='_blank'>周处除三害</a> ⭐⭐⭐⭐ |
-| 2024-02-17 | 看过😎 <a href='https://movie.douban.com/subject/1291841/' target='_blank'>教父-三部曲</a> ⭐⭐⭐⭐|
+| 2024-04-23 | 想看🤔 <a href='https://movie.douban.com/subject/35426925/' target='_blank'>机器人之梦Robot Dreams</a>  |
+| 2024-03-10 | 看过😎 <a href='https://movie.douban.com/subject/26925611/?from=showing/' target='_blank'>你想活出怎样的人生</a> ⭐⭐⭐ |
+| 2024-03-08 | 看过😎 <a href='http://movie.douban.com/subject/36151692/' target='_blank'>周处除三害</a> ⭐⭐⭐ |
+| 2024-02-17 | 看过😎 <a href='https://movie.douban.com/subject/1291841/' target='_blank'>教父-三部曲</a> ⭐⭐⭐|
 <!-- END_SECTION:douban -->
 </td>
 </tr>
