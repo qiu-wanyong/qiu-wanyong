@@ -39,7 +39,7 @@
 <tr>
 <td valign="top" width="50%">
 
-**🤹‍♀️ <a href="http://qiuwy.com/" target="_blank">Personal Interests</a>**
+**🤹‍♀️ <a href="http://qiuwy.com/index.php/about-2/" target="_blank">Personal Interests</a>**
 
 <!-- START_SECTION:blog -->
 | Research | Interests |
