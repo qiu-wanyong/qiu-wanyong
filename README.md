@@ -3,7 +3,7 @@
 
 <p align="center">
   <samp>
-    <a href="http://qiuwy.com/">homepage</a> ∙
+    <a href="https://qiu-wanyong.github.io/">homepage</a> ∙
     <a href="https://www.researchgate.net/profile/Wanyong-Qiu/">researchGate</a> ∙
     <a href="https://www.zhihu.com/people/Jomaron">blog</a> ∙ 
     <a href="https://blog.csdn.net/qiu1440528444?type=blog/">CSDN</a> ∙ 
