@@ -3,9 +3,9 @@
 
 <p align="center">
   <samp>
-    <a href="https://qiu-wanyong.github.io/">homepage</a> ∙
+    <a href="https://qiu-wanyong.github/">homepage</a> ∙
     <a href="https://www.researchgate.net/profile/Wanyong-Qiu/">researchGate</a> ∙
-    <a href="https://blog.csdn.net/qiu1440528444?type=blog/">CSDN</a> ∙ 
+    <a href="https://blog.csdn.net/">CSDN</a> ∙ 
   </samp>
 </p>
 
