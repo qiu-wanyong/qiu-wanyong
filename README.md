@@ -36,18 +36,7 @@
 <tr>
 <td valign="top" width="50%">
 
-**🤹‍♀️ <a href="http://qiuwy.com/index.php/about-2/" target="_blank">Personal Interests</a>**
 
-<!-- START_SECTION:blog -->
-| Research | Interests |
-| :-: | :---: |
-| Artificial Intelligence| <a href='https://book.douban.com/subject/26708119/' target='_blank'>Machine learning, Computer audition</a> |
-| Information Security | <a href='https://book.douban.com/subject/35750988/' target='_blank'>Privacy-preserving computing</a> |
-| Artificial Intelligence Medicine| <a href='https://book.douban.com/subject/35062813/' target='_blank'>Federated learning for healthcare</a> |
-| Medical Information Privacy| <a href='https://book.douban.com/subject/5937126/' target='_blank'>Psychophysiology of privacy computing</a> |
-<!-- END_SECTION:blog -->
-</td>
-<td valign="top" width="50%">
 
 **🤾‍♂️ <a href="https://movie.douban.com/" target="_blank">Funny Soul</a>**
 
