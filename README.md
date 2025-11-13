@@ -20,7 +20,7 @@
 <!-- languages:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-- 🔭 I’m a Post-doctoral fellow at the Faculty of Science and Engineering, Waseda University ([**Waseda University**](https://www.waseda.jp/)).
+- 🔭 I’m a Post-doctoral fellow at the Faculty of Science and Engineering, [Waseda University](https://www.waseda.jp/).
 - 🎨 I am glad to share and communicate with you [>more](http://qiu-wanyong.github.io/).
 - 📫 You can reach me at [w.iac25173@kurenai.waseda.jp](w.iac25173@kurenai.waseda.jp).
   
