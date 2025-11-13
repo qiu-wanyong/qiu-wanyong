@@ -20,9 +20,9 @@
 <!-- languages:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-- 🔭 I am from the [**Key Laboratory of Brain Health Intelligent Evaluation and Intervention Ministry of Education**](https://bhe-lab.org/) ([**Beijing Institute of Technology**](https://www.bit.edu.cn/)).
-- 🎨 I am glad to share and communicate with you [>more](http://qiuwy.com/).
-- 📫 You can reach me at [qiuwy@bit.edu.cn](qiuwy@bit.edu.cn).
+- 🔭 I’m a Post-doctoral fellow at the Faculty of Science and Engineering, Waseda University ([**Waseda University**](https://www.waseda.jp/)).
+- 🎨 I am glad to share and communicate with you [>more](http://qiu-wanyong.github.io/).
+- 📫 You can reach me at [w.iac25173@kurenai.waseda.jp](w.iac25173@kurenai.waseda.jp).
   
 <span class="badge-patreon"><a href="https://www.patreon.com/" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
 <span class="badge-buymeacoffee"><a href="https://www.patreon.com/" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg" alt="Buy Me A Coffee donate button" /></a></span>
